@@ -1,0 +1,13 @@
+.footer {
+    background-color:rgba(234,234,234,0.5);
+    width:100%;
+    height:50px;
+    text-align:right;
+    display:inline-block;
+    vertical-align:middle;
+
+}
+
+.main{
+    height:50vh;
+}

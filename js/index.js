@@ -1,8 +1,8 @@
 //function clickTest() {
 //	alert("wawawawawa");
 //}
-
-var top = document.getElementById('btn_top_id');
+$('.slider').slick();
+var top = document.getElementsByClassName('btn_top');
 var text = document.getElementById('text');
 
 
