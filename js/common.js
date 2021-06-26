@@ -1,7 +1,7 @@
 $(function () {
-	//共通ヘッダー
-	$("#header").load('../header.html');
-	//共通フッター
-	$("#footer").load('../footer.html');
+	//蜈ｱ騾壹�倥ャ繝繝ｼ
+	$("#header").load('./header.html');
+	//蜈ｱ騾壹ヵ繝�繧ｿ繝ｼ
+	$("#footer").load('./footer.html');
 });
 
