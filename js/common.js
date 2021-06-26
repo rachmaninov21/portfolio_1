@@ -4,3 +4,4 @@ $(function () {
 	//共通フッター
 	$("#footer").load('../footer.html');
 });
+
