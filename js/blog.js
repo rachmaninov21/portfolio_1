@@ -1,3 +1,4 @@
 $(function () {
-    $('#blog_menu').load('./blog_menu.html');
+    $('#blog_menu').load('../blog_menu.html');
 });
+
